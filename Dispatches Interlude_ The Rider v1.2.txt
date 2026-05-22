@@ -1,0 +1,103 @@
+﻿Dispatches from the Record: Interlude
+The Public Dollar Cannot Enter a Black Box
+A Model Appropriations Rider for a Private Presidential Settlement Fund
+Opening Note
+This is not legal advice. It is a public civic artifact.
+Its purpose is simple: to give members of Congress, staff, journalists, watchdogs, and citizens a model appropriations rider that can be used immediately.
+The object here is not the name of one person.
+The object is appropriations traceability: the condition under which a public dollar carries a legible chain from congressional authorization, to lawful purpose, to fixed exposure, to eligible claimant, to accountable disbursement.
+Put more plainly:
+The public dollar must remain traceable.
+When public money leaves the Treasury, it should be possible to say what Congress authorized, what purpose the money serves, how much exposure Congress permitted, who may receive the money, why they may receive it, and what institution can audit the result.
+That is the problem here.
+The Administration has announced a fund connected to the settlement of claims brought by the President in a private capacity. The Department of Justice says the fund will receive $1.776 billion from the Judgment Fund, that its members will be appointed by the Attorney General, that reports will go to the Attorney General, and that audits may occur at the Attorney General’s direction. (DOJ Press Release, May 18, 2026; updated May 19, 2026)
+That is not an ordinary spending event. It is not an ordinary settlement event. It is not an ordinary public-compensation program.
+It is a constitutional accounting problem.
+What Happened
+The Department of Justice announced an “Anti-Weaponization Fund” as part of a settlement resolving claims brought by the President in a private capacity against federal agencies. DOJ states that the named plaintiffs will receive a formal apology but no monetary payment or damages, and that the fund will have power to provide formal apologies and monetary relief to other claimants. DOJ also states that the fund will receive $1.776 billion from the Judgment Fund and that unused money will revert to the federal government. (DOJ Press Release, May 18, 2026; updated May 19, 2026)
+The settlement text matters. It says an accompanying Attorney General order “shall establish funding and any other relevant requirements, rules, conditions, terms, and waivers,” and that those terms will be incorporated into the settlement. It also says the fund’s corpus does not represent the value of the current plaintiffs’ claims, but is based on projected future claimants’ claims. The fund is given power to determine its own procedures and to issue monetary relief. (Settlement Agreement / Attorney General Fund Order)
+That means the announced number is not enough.
+A press release may name an amount. But a press release is not an appropriation, and an announced corpus is not a Congress-fixed ceiling.
+The public issue is therefore not only that $1.776 billion has been named. The issue is that the Administration has attempted to open a public-money channel whose funding, procedures, awards, administration, future claimants, and total exposure are not bounded by a fresh, specific congressional appropriation identifying the docket, purpose, and maximum amount.
+That is where Congress must act.
+The Judgment Fund Is Not a Blank Check
+The Judgment Fund is a permanent, indefinite appropriation, but it is not a blank executive checkbook.
+Treasury’s regulations state that Fiscal Service certifies Judgment Fund payments only when four tests are met: the award or settlement is final; monetary; payable under one of the authorities specified in 31 U.S.C. § 1304(a)(3); and not legally payable from another source of funds. Treasury also requires the submitting agency to provide the settlement agreement and supporting documentation. (31 C.F.R. Part 256 / eCFR, Judgment Fund payment requirements)
+The statute itself appropriates necessary amounts only for final judgments, awards, compromise settlements, and specified costs when payment is not otherwise provided for, is certified by Treasury, and is payable under listed statutory authorities. (31 U.S.C. § 1304, Judgment Fund statute)
+Those limits matter because Congress, not the President, holds the purse.
+A permanent appropriation is not permission for the Administration to create a private presidential settlement fund with an executive-controlled claims process and no Congress-fixed maximum.
+Why This Is Different
+Ordinary settlements can be lawful.
+Ordinary compensation programs can be lawful.
+The Judgment Fund can be lawful when its statutory conditions are met.
+But this settlement structure is different.
+Unlike an ordinary Judgment Fund payment, this settlement does not resolve a fixed claim with adjudicated facts and a certified amount. It creates a forward-looking fund whose scope, eligible claimants, procedures, and total exposure are set inside the Executive rather than by statute, judicial determination, or specific congressional appropriation.
+That is the boundary.
+The Administration may settle litigation. It may apologize. It may defend its legal view in court. It may ask Congress to fund a compensation program.
+But it may not convert the Judgment Fund into an executive-controlled private settlement channel unless Congress has clearly authorized that channel.
+The public dollar cannot be made to carry private presidential settlement consequences without fresh, specific public authorization.
+And that authorization must include a maximum amount.
+The Failure
+The failure here is not simply “too much money.”
+The failure is loss of appropriations traceability.
+When public money moves through a lawful channel, the civic body can trace the line:
+Congress authorized the money.
+The law defined the purpose.
+The cap fixed the exposure.
+The claim established entitlement.
+The record preserved the reason.
+Independent institutions could audit the result.
+When that chain breaks, the civic body loses its memory of why the dollar moved.
+Under Constitutional Physiology, this is a maintenance failure. The public fisc is not being maintained as a public organ answerable to the whole constitutional body. It is being routed through a channel where authority, conflict, claimant, injury, maximum exposure, payment, and accountability can separate from one another.
+Under Structural Flow, the same failure can be stated more generally: the held condition of appropriations traceability has stopped holding. The public dollar no longer carries congressional authorization as a traceable public constraint. It carries executive settlement will through a fund whose public boundaries are not sufficiently fixed.
+The public dollar cannot enter a black box.
+The Model Rider
+Model Appropriations Rider — Private Presidential Settlement Fund Limitation
+None of the funds made available by this Act or any other Act, including the permanent indefinite appropriation under 31 U.S.C. § 1304, may be obligated, expended, transferred, apportioned, certified, disbursed, supplemented, replenished, reimbursed, or otherwise made available, whether as initial funding, additional funding, administrative funding, successor funding, residual transfer authority, or through any intermediary, grantee, contractor, account, or successor entity, to satisfy, administer, implement, process, or distribute funds under the settlement agreement entered in the United States District Court for the Southern District of Florida, No. 1:26-cv-20609-KMW, involving claims brought by the President in a private capacity, or any fund, commission, claims process, administrator, contractor, account, intermediary, grantee, or successor entity created pursuant to or arising from that settlement, including the entity described as the “Anti-Weaponization Fund,” unless Congress later enacts a specific appropriation expressly identifying that settlement by docket number, purpose, and maximum amount.
+No officer or employee of the United States may use appropriated funds to process, certify, approve, facilitate, administer, or carry out any payment prohibited by this section.
+Nothing in this section shall be construed to prohibit the preservation of records, production of records to Congress, inspector general review, Government Accountability Office review, Treasury review, judicial review, or defense of the United States’ legal position in litigation concerning the settlement agreement, the Anti-Weaponization Fund, this limitation, or any proposed payment related thereto.
+Short Rider for Public Sharing
+Proposed appropriations rider:
+None of the funds made available by this Act or any other Act, including 31 U.S.C. § 1304, may be obligated, expended, transferred, certified, disbursed, supplemented, replenished, reimbursed, or otherwise made available to satisfy, administer, implement, process, or distribute funds under the settlement agreement entered in the Southern District of Florida, No. 1:26-cv-20609-KMW, involving claims brought by the President in a private capacity, or any “Anti-Weaponization Fund” created from it, unless Congress later enacts a specific appropriation expressly identifying that settlement by docket number, purpose, and maximum amount.
+Short Message to Congress
+Please support an appropriations rider blocking any payment, certification, administration, or disbursement connected to the Anti-Weaponization Fund unless Congress enacts a specific appropriation identifying the settlement by docket number, purpose, and maximum amount.
+Congress holds the purse. A permanent appropriation is not a blank check for the Administration to create a private presidential settlement channel.
+If the public dollar is going to move, public authorization must be specific, capped, traceable, and accountable.
+Closing
+The constitutional problem is not hard to state.
+A President in a private capacity may not become the reason public money leaves the Treasury unless Congress has clearly opened that path.
+The Administration may not make the public fisc answer to a private presidential settlement without Congress.
+The public dollar carries public authorization.
+The public dollar must remain traceable.
+The public dollar must have a Congress-fixed ceiling.
+The public dollar cannot enter a black box.
+Source Note
+This artifact relies on public materials available at the time of drafting: the Department of Justice press release announcing the Anti-Weaponization Fund; the settlement and Attorney General fund materials published or referenced by the Department of Justice; 31 U.S.C. § 1304; and 31 C.F.R. Part 256. Parenthetical references in the text refer to those materials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this public civic artifact, the author used generative AI tools to assist with drafting support, source-checking prompts, language refinement, structural editing, title development, and clarity. All substantive arguments, legal and policy framing, scope decisions, source choices, model-rider language, and final editorial judgments are the author’s own. The author reviewed and approved the final artifact and takes full responsibility for its content.
